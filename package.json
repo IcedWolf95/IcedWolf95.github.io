@@ -9,7 +9,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite pryareview",
     "predeploy":"yarn vite",
-    "deploy":"gh-pages -d dist" 
+    "deploy":"https://icedwolf95.github.io/ -d dist" 
   },
   "dependencies": {
     "react": "^18.2.0",
