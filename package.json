@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "yarn vite",
+    "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "deploy": "yarn vite"
+    "preview": "vite preview"
+    
   },
   "dependencies": {
     "react": "^18.2.0",
