@@ -9,7 +9,7 @@ const ImageCarousel = () => {
     "https://comunicacion.chaco.gov.ar/gen_multimedia/imagen/151414/850/550/center/0da8afc29abd9f3d7f4f69b3fb290ad7.jpg",
     "https://www.inet.edu.ar/wp-content/uploads/2016/05/INET-Seminario-UCA-1.jpg",
     "https://www.argentina.gob.ar/sites/default/files/estudiantes-de-buenos-aires-realizan-practicas-profesionalizantes-en-laboratorios-del-inet-_0.jpg",
-    "https://blog.epet1.edu.ar/wp-content/uploads/2019/10/inet-en-casa.jpg",
+    "https://img.youtube.com/vi/uoKTyqYpxcI/hqdefault.jpg",
     "https://pbs.twimg.com/media/Ezx0xfXWYAAEkWP?format=jpg&name=4096x4096",
   ];
 
