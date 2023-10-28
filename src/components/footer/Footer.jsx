@@ -11,7 +11,7 @@ const Footer = () => {
             className="flex items-center mb-4 sm:mb-0"
           >
             <img
-              src="src/assets/logo-inet inti.png"
+              src="https://www.inet.edu.ar/wp-content/themes/inet/img/logo-inet.png"
               className="h-12 md:h-14 mr-3"
               alt="Flowbite Logo"
             />
