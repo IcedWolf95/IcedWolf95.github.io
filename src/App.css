@@ -1,0 +1,41 @@
+:root {
+  --color-inet: #0e68af;
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --size-btn-collapse: 10.5rem;
+  --time-animation: 0.3s;
+  --box-shadow: 3px 7px 7px rgba(0 0 0 /22%);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.to-top {
+  background: var(--color-white);
+  position: fixed;
+  bottom: 16px;
+  right: 12px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  color: #1f1f1f;
+  text-decoration: none;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.4s;
+  box-shadow: var(--box-shadow);
+}
+
+.to-top.active {
+  bottom: 32px;
+  pointer-events: auto;
+  opacity: 1;
+}

@@ -1,7 +1,11 @@
 {
-    "folders": [
-        {
-            "path": "."
-        }
-    ]
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/INET/INET-Aplicacion-Integradora-luccianos/INET-Aplicacion-Integradora-luccianos"
+		}
+	],
+	"settings": {}
 }
