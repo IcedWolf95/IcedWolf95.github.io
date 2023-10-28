@@ -7,8 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "start": "yarn start"
-    
+    "deploy": "yarn build && npx gh-pages -d dist",
+    "predeploy": "yarn build"
   },
   "dependencies": {
     "react": "^18.2.0",
